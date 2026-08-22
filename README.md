@@ -1,6 +1,6 @@
 # 🚦 Traffic Survelliance — Computer Vision System
 
-> A robust, real-time vehicle detection and multi-class tracking pipeline engineered for automated traffic monitoring and density analysis. Developed as part of the **Microsoft Innovations Club (MIC) AIML Recruitment Challenge (Part 1: Foundations)**.
+> A robust, real-time vehicle detection and multi-class tracking pipeline engineered for automated traffic monitoring and density analysis.
 
 ---
 
