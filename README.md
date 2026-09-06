@@ -1,4 +1,4 @@
-# 🚦 Traffic Survelliance — Computer Vision System
+# 🚦 VehiCount — Traffic Surveillance using a Computer Vision System
 
 > A robust, real-time vehicle detection and multi-class tracking pipeline engineered for automated traffic monitoring and density analysis.
 
